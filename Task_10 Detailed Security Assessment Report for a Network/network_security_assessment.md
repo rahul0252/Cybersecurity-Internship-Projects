@@ -1,8 +1,8 @@
 
 # Network Security Assessment Report
 
-**Prepared By:** [Your Name]  
-**Date:** [Insert Date]  
+**Prepared By:** Kadiyam Rahul Prasad
+**Date:** 26 June 2025
 **Tools Used:** Nmap, Wireshark  
 
 ---
