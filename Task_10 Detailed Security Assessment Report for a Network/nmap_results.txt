@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Mon Jun 23 10:50:10 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -oN nmap_results.txt 10.211.55.7
+Nmap scan report for 10.211.55.7
+Host is up (0.0000010s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.62 ((Debian))
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jun 23 10:50:16 2025 -- 1 IP address (1 host up) scanned in 6.35 seconds
