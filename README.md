@@ -68,24 +68,13 @@ Examined protocols like HTTP, DNS, and ARP to identify issues like clear-text pa
 
 ---
 
-### Task 5: Password Cracking using John The Ripper
-- **Tools Used:** John the Ripper
-- **Description:**  
-Simulated a password cracking scenario in a controlled environment.  
-Demonstrated dictionary attacks and brute-force techniques on hashed password files for educational purposes.
-- **Deliverables:**  
-  - Password hash files (sample and educational use only)  
-  - Crack results and methodology explanation in README.
-
----
 
 ## 🧰 Tools & Technologies Used:
 
 - **Nmap** – Network Scanning
 - **Wireshark** – Packet Sniffing & Analysis
-- **Nikto** – Web Server Vulnerability Scanner
-- **John the Ripper** – Password Cracking Tool
-- **Kali Linux / Parrot OS** – Penetration Testing Environment
+- **Nikto** – Web Server Vulnerability Scanner  
+- **Kali Linux** – Penetration Testing Environment
 - **OWASP ZAP** – Web Application Vulnerability Scanner
 - **Git & GitHub** – Version Control and Project Hosting
 
