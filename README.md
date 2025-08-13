@@ -1,4 +1,4 @@
-##Security Analyst Internship
+## Security Analyst Internship
 This repository contains the cybersecurity tasks and projects I completed as part of my internship and personal learning journey in Information Security.
 
 ##📌 About the Internship
@@ -6,7 +6,7 @@ This internship provided me with practical exposure to real-world tools, securit
 
 I worked on multiple projects covering network security, vulnerability assessment, web application testing, and traffic analysis, using both automated tools and manual inspection techniques.
 
-##🏆 Internship Details
+## 🏆 Internship Details
 Internship Duration: June 2025
 
 Domain: Cybersecurity / Information Security
@@ -14,10 +14,10 @@ Domain: Cybersecurity / Information Security
 Role: Cybersecurity Intern
 
 ✅ Repository Contents and Project Details
-Task 1: Network Security Assessment Report
+## Task 1: Network Security Assessment Report
 Tools Used: Nmap, Wireshark
 
-Description:
+ Description:
 Performed a full network vulnerability assessment on a test network using Nmap for scanning and Wireshark for packet capture.
 Identified open ports, running services, and potential security risks like ARP spoofing and plaintext traffic.
 
@@ -29,7 +29,7 @@ nmap_results.txt
 
 wireshark_capture.pcap
 
-Task 2: Vulnerability Scanning with Nikto
+## Task 2: Vulnerability Scanning with Nikto
 Tools Used: Nikto (Web Server Scanner)
 
 Description:
@@ -42,7 +42,7 @@ nikto_scan_results.txt
 
 README.md with detailed findings and recommendations.
 
-Task 3: Web Application Security Analysis
+## Task 3: Web Application Security Analysis
 Tools Used: OWASP ZAP / Manual Inspection
 
 Description:
@@ -53,7 +53,7 @@ Deliverables:
 
 Detailed report outlining detected vulnerabilities, their risk levels, and remediation strategies.
 
-Task 4: Packet Sniffing and Traffic Analysis
+## Task 4: Packet Sniffing and Traffic Analysis
 Tools Used: Wireshark
 
 Description:
@@ -66,7 +66,7 @@ Packet capture (.pcap file)
 
 Summary report with analysis and findings.
 
-🧰 Tools & Technologies Used:
+## 🧰 Tools & Technologies Used:
 Nmap – Network Scanning
 
 Wireshark – Packet Sniffing & Analysis
@@ -79,13 +79,13 @@ OWASP ZAP – Web Application Vulnerability Scanner
 
 Git & GitHub – Version Control and Project Hosting
 
-📄 Repository Folder Structure:
+## 📄 Repository Folder Structure:
 Each folder contains relevant reports, scan results, and supporting files.
 
-💡 Key Learnings:
+## 💡 Key Learnings:
 Through these projects, I gained:
 
-Hands-on experience with industry-standard cybersecurity tools.
+## Hands-on experience with industry-standard cybersecurity tools.
 
 Skills in vulnerability assessment, penetration testing basics, and network traffic analysis.
 
