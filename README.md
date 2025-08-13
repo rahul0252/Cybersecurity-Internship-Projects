@@ -1,12 +1,12 @@
-Security Analyst Internship
+##Security Analyst Internship
 This repository contains the cybersecurity tasks and projects I completed as part of my internship and personal learning journey in Information Security.
 
-📌 About the Internship
+##📌 About the Internship
 This internship provided me with practical exposure to real-world tools, security assessment techniques, and professional reporting standards used in the cybersecurity industry.
 
 I worked on multiple projects covering network security, vulnerability assessment, web application testing, and traffic analysis, using both automated tools and manual inspection techniques.
 
-🏆 Internship Details
+##🏆 Internship Details
 Internship Duration: June 2025
 
 Domain: Cybersecurity / Information Security
